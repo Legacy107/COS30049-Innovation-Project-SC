@@ -16,7 +16,7 @@
     "@commitlint/cli": "^17.4.4",
     "@commitlint/config-conventional": "^17.4.4",
     "@remix-project/remixd": "^0.6.17",
-    "ethereumjs-testrpc": "^6.0.3",
+    "ganache": "^7.9.1",
     "husky": "^8.0.0",
     "prettier": "2.8.4",
     "prettier-plugin-solidity": "^1.1.3",
